@@ -5,7 +5,7 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "save@forlater.xyz | Save things documents for later",
+  title: "save@forlater.xyz | Save things for later",
   description: "save@forlater.xyz stores documents, links, and notes for later",
 };
 
