@@ -48,7 +48,7 @@ export default function Home() {
       </div>
       <div>
         <h3
-          className="text-2xl lg:text-4xl font-bold"
+          className="text-2xl lg:text-4xl font-bold mt-12"
           style={{ color: lightGrey }}
         >
           <p className="my-4">

@@ -13,7 +13,7 @@ export default function ThingsToEmail() {
         2000,
       ]}
       wrapper="span"
-      speed={30}
+      speed={20}
       style={{ display: "inline-block" }}
       repeat={Infinity}
     />
